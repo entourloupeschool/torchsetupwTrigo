@@ -2,7 +2,7 @@ import torch.nn as nn
 import torch
 import torch.nn.functional as F
 
-# create simple perceptron
+# create simple perceptron model
 
 
 class Model(nn.Module):

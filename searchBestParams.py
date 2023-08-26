@@ -1,5 +1,4 @@
-from makedata import make_data
-from mlUtility import main, test_model, loaders_from_raw_data, plot_grid_predictions
+from mlUtility import main, test_model, loaders_from_raw_data
 from models.init_model import Model, CustomModel
 from plotUtility import *
 import torch

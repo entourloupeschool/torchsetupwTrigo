@@ -2,7 +2,7 @@ import torch
 import random as rdm
 import numpy as np
 import multiprocessing
-from mlUtility import main, test_model, loaders_from_raw_data
+from mlUtility import main, loaders_from_raw_data
 from models.init_model import Model
 from makedata import *
 from plotUtility import *

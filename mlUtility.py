@@ -1,13 +1,11 @@
 # Description: Utility functions for machine learning
-import shutil
 from tqdm import tqdm
 import datetime
 import matplotlib.pyplot as plt
 import torch
 from torch.optim import lr_scheduler
 import torch.backends.cudnn as cudnn
-from torch.utils.data import TensorDataset
-from torch.utils.data import DataLoader
+from torch.utils.data import TensorDataset, DataLoader
 from plotUtility import *
 
 # epoch function
