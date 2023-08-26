@@ -1,0 +1,12 @@
+samples : 8000
+noise : 0.1
+width_samples : 10
+batch_size : 500
+epochs : 140
+ratioTrainTest : 0.7
+neuronsf1 : [6, 8]
+neuronsf2 : [6, 8, 10]
+lrsearch : [0.003, 0.001]
+do_rate_search : 0
+load : False
+output_dir : sumpluslinear/searchbestparams/2023-08-25_23:28:41/

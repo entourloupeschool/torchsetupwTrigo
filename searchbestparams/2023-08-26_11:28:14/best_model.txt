@@ -1,0 +1,4 @@
+lr: 0.005, layers_config: [[13, False, 0], [13, False, 0], [13, False, 0], [13, False, 0], [13, False, 0]]
+test_loss_mean: 0.08119642857142814
+test_acc_mean: 0.49853571428571347
+at time: 2023-08-26_11:28:29
